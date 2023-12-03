@@ -7,14 +7,22 @@ body{
 
 .container{
     width: 30%;
+    height: auto;
     margin: 0.5em auto;
     /* border: 2px solid black; */
-    padding: 1.3em;
+    padding: 1em;
     background-color: white;
     border-radius: 4%;
     max-width: 900px;
     display:flex;
     flex-direction: column;
+    align-items: center;
+}
+
+@media all and (max-width: 600px){
+    .container{
+        width: 50vw;
+    }
 }
 
 img{
@@ -23,11 +31,11 @@ img{
 
 .container h2{
     text-align: center;
+    
 }
 
  .indent{
-    padding-right: 40px;
-    padding-left: 40px;
+    padding: 0px 20px;
 } 
 
 
