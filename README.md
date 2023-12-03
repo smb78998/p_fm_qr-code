@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://smb78998.github.io/p_fm_qr-code/)
+
 
 ## My process
 
@@ -37,18 +37,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-This is the one of first "website" project I have attempted, after complete a couple of FreeCodeCamp courses. And even thought it's an easier project, it has allowed for be to review the basics of HTML and CSS. 
+This is the one of first "website" projects I have attempted, after completing a couple of FreeCodeCamp courses. And even thought it's an easier project, it has allowed for be to review the basics of HTML and CSS. 
 
 
 ### Continued development
 
 In future projects, I will be focusing on learning more about website layout. More specifically, I would like to gain more familiarity with flex box. 
 
+
 ### Useful resources
 
 - [Flexbox Froggy](https://flexboxfroggy.com/) - This is am amazing website/game which helped me gain a better understaing of flex box. 
 - [Free Code Camp: Flex box](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery) - I first learning of flex box through the "Responsive Web Design" course at Free Code Camp.
--[Learn Flexbox CSS in 8 minutes](https://www.youtube.com/watch?v=phWxA89Dy94&t=170s) - Quick and consise video with great visualization of Flexbox.
+- [Learn Flexbox CSS in 8 minutes](https://www.youtube.com/watch?v=phWxA89Dy94&t=170s) - Quick and consise video with great visualization of Flexbox.
 
 ## Author
 
